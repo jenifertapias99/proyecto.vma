@@ -272,12 +272,14 @@ h6{
     margin-top: 600px;
 }
 
-.col{
-    background-color: rgb(237, 243, 243);
-    
+/* tarjeta c-man */
 
-    
+#tarjeta1{
+    background-color: rgb(237, 243, 243);
+    margin-top: 70px;
+    margin-bottom: 30px;
+    width: 100%
 }
-.col img{
-    
-}
+
+
+
